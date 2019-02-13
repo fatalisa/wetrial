@@ -1,6 +1,6 @@
 {
   "name": "react-wetrial",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "wetrial通用组件、方法、样式",
   "main": "index.js",
   "scripts": {
