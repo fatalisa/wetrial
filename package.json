@@ -2,9 +2,10 @@
   "name": "react-wetrial",
   "version": "1.0.0",
   "description": "wetrial通用组件、方法、样式",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
-    "test": "test"
+    "build": "tsc",
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/wetrial/wetrial-base#readme",
   "devDependencies": {
+    "mocha": "^5.2.0",
     "tslint": "^5.12.1",
     "typescript": "^3.3.3"
   }
