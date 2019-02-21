@@ -1,3 +1,3 @@
-export function test(): string{
-    return "test";
+export function HelloWord(): string {
+  return 'HelloWord';
 }

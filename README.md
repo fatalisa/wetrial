@@ -11,7 +11,7 @@
 npm install --save wetrial-base
 ```
 
-[ant-design](https://ant.design/)的 DFocus 扩展组件库，帮助开发者选择需要的组件，并迅速进入角色。
+专为wetrial定制的 基于ant-design的通用业务组件库，包含通用组件、通用样式、辅助方法等
 
 完整 API 使用文档，请[这边走](https://xiexingen.github.io/wetrial-base)
 
