@@ -1,5 +1,5 @@
 {
-  "name": "react-wetrial",
+  "name": "wetrial-base",
   "version": "0.0.1",
   "description": "wetrial通用组件、方法、样式",
   "main": "lib/index.js",
@@ -49,7 +49,7 @@
     "lib/**/*"
   ],
   "lint-staged": {
-    "**/*.{ts,tsx,json,less}": [
+    "**/*.{.js,.jsx,ts,tsx,json,less}": [
       "node ./scripts/lint-prettier.js",
       "git add"
     ],
