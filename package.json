@@ -1,5 +1,5 @@
 {
-  "name": "wetrial-base",
+  "name": "wetrial",
   "version": "0.0.1",
   "description": "wetrial通用组件、方法、样式",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wetrial/wetrial-base.git"
+    "url": "git+ssh://git@github.com/wetrial/wetrial.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "xiexingen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wetrial/wetrial-base/issues"
+    "url": "https://github.com/wetrial/wetrial/issues"
   },
-  "homepage": "https://github.com/wetrial/wetrial-base#readme",
+  "homepage": "https://github.com/wetrial/wetrial#readme",
   "devDependencies": {
     "@types/jest": "^24.0.6",
     "@types/react": "^16.8.4",
